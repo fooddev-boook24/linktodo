@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602285352304",
+    "project_id": "linktodo-flutter",
+    "storage_bucket": "linktodo-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602285352304:android:6318fe7f31ca1d106e5bb5",
+        "android_client_info": {
+          "package_name": "app.boook24.linktodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBweGr6sUCUI3wqq_jXnPCZQE7vxdG2GbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
